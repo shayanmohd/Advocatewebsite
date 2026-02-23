@@ -16,7 +16,7 @@
     <link rel="canonical" href="https://advocateyunus.com/">
     <meta name="generator" content="Framer 2797bee">
     <title>Advocate Mohd Yunus | Expert Legal Services in Delhi & Supreme Court of India</title>
-    <meta name="description" content="Advocate Mohd Yunus provides expert legal services in Delhi. Specializing in family law, estate planning, mining law, contracts, child custody & divorce. 10+ years experience practicing at Saket Court, Delhi High Court & Supreme Court. Contact: contact@advocateyunus.com | +91 9810493071">
+    <meta name="description" content="Advocate Mohd Yunus - Expert legal services in Delhi. Family law, estate planning, mining law & contracts. 10+ years exp. Saket Court, Delhi HC, Supreme Court.">
     <meta name="framer-search-index" content="https://framerusercontent.com/sites/4rAdykDVfMFw7uC4xxz9VT/searchIndex-JiqKO7cBaAKo.json">
     <link href="https://framerusercontent.com/images/tK2QjKomqQqYS8yhYmkJSuye4dE.png" rel="icon" media="(prefers-color-scheme: light)">
     <link href="https://framerusercontent.com/images/tK2QjKomqQqYS8yhYmkJSuye4dE.png" rel="icon" media="(prefers-color-scheme: dark)">
@@ -124,6 +124,46 @@
 </div>
     
     
+    
+    <!-- SEO: JavaScript Workaround for Missing Image Alt Attributes -->
+    <script>
+    (function() {
+        // Add alt text to images missing alt attributes
+        document.addEventListener('DOMContentLoaded', function() {
+            var images = document.querySelectorAll('img:not([alt])');
+            images.forEach(function(img, index) {
+                // Try to determine appropriate alt text based on context
+                var altText = 'Advocate Mohd Yunus Legal Services';
+                
+                // Check if image is in a specific section
+                var parent = img.closest('[data-framer-name]');
+                if (parent) {
+                    var sectionName = parent.getAttribute('data-framer-name');
+                    if (sectionName) {
+                        if (sectionName.includes('Hero')) altText = 'Advocate Mohd Yunus - Legal Services Hero Image';
+                        else if (sectionName.includes('About')) altText = 'About Advocate Mohd Yunus';
+                        else if (sectionName.includes('Service')) altText = 'Legal Services Offered';
+                        else if (sectionName.includes('Contact')) altText = 'Contact Advocate Mohd Yunus';
+                        else if (sectionName.includes('Blog')) altText = 'Legal Blog Articles';
+                        else altText = sectionName + ' Section Image';
+                    }
+                }
+                
+                // Check for nearby headings to use as context
+                var heading = img.closest('section, div')?.querySelector('h1, h2, h3');
+                if (heading && !parent) {
+                    altText = heading.textContent.trim().substring(0, 50) || altText;
+                }
+                
+                img.setAttribute('alt', altText);
+                img.setAttribute('loading', 'lazy'); // Also add lazy loading for performance
+            });
+            
+            // Log for debugging (remove in production if desired)
+            console.log('SEO Fix: Added alt text to ' + images.length + ' images');
+        });
+    })();
+    </script>
     
 </body>
 </html>
