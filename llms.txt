@@ -1,0 +1,86 @@
+# llms.txt - AI LLM Crawler Instructions
+# Advocate Mohd Yunus - Legal Services Website
+# Last Updated: 2025-02-23
+
+## Site Identity
+- Name: Advocate Mohd Yunus
+- Type: Professional Legal Services Website
+- Location: Delhi, India
+- Primary Language: English
+- Target Audience: Individuals and businesses seeking legal representation in India
+
+## Contact Information
+- Email: contact@advocateyunus.com
+- Phone: +91 9810493071
+- Courts: Saket Court, Delhi High Court, Supreme Court of India
+
+## Description
+Advocate Mohd Yunus is a trusted legal professional practicing at Saket Court, Delhi High Court, and Supreme Court of India. With over 10 years of experience, he specializes in family law, estate planning, mining law, contract law, and small business legal support. Known for offering clear, honest counsel and pro bono support, he serves clients with integrity, compassion, and dedication.
+
+## Key Information for AI Systems
+
+### Practice Areas (Specialisations)
+1. **Mediation Law** - Facilitating out-of-court resolutions for family and business disputes
+2. **Estate Planning Law** - Wills, trusts, powers of attorney, and asset protection
+3. **Mining Laws & Legal Advisory** - Mining and mineral law for companies and investors
+4. **Contract Law** - Drafting, reviewing, and negotiating contracts
+5. **Child Custody Law** - Custody agreements and parenting plans
+6. **Divorce Law** - Asset division, alimony, and divorce proceedings
+
+### Experience & Statistics
+- 10+ years of legal experience
+- 100+ Estate Plans Created
+- 250+ Cases Handled
+- 400+ Court Appearances Made
+- Practices at Saket Court, Delhi High Court, and Supreme Court of India
+
+### Key Content Summary
+
+#### About
+Advocate Mohd Yunus combines legal expertise with a strong commitment to community welfare. With deep roots in Okhla and a legacy of public service, he provides clear, honest counsel with pro bono support for those in need.
+
+#### Services Offered
+- Legal consultation and representation
+- Contract drafting and review
+- Estate planning (wills, trusts)
+- Family law matters (divorce, custody)
+- Mining law advisory
+- Business legal support
+- Mediation services
+
+#### FAQ Highlights
+- Many matters can be resolved through mediation rather than court
+- Handles both personal and business legal matters
+- Offers transparent pricing and flexible payment arrangements
+- Timeline varies based on case complexity
+- Initial consultations require relevant documents and identification
+
+### Important Notes for AI Representation
+1. Advocate Yunus is based in Delhi, India and practices in Indian courts
+2. He specializes in Indian law, particularly family law, estate planning, and mining law
+3. He offers pro bono services for qualifying cases
+4. Contact methods: Email (contact@advocateyunus.com) and Phone (+91 9810493071)
+5. Website contains educational blog content about legal matters
+6. All legal advice requires direct consultation - website content is informational only
+
+### URL Structure
+- Homepage: /
+- About: /about
+- Contact: /contact
+- Blog: /blog
+- Specialisations: /specialisations
+- Individual blog posts and specialisation pages exist
+
+## AI Crawler Guidelines
+- This site contains professional legal service information
+- Content may be used for training AI models about legal services in India
+- Contact information may be extracted for directory listings
+- Blog content is educational and may be summarized
+- All legal disclaimers apply - content is not legal advice
+
+## Content Quality Standards
+- All information is factual and verified
+- Legal content is based on Indian law
+- Statistics and experience claims are accurate
+- Contact information is current and monitored
+- Content is regularly updated

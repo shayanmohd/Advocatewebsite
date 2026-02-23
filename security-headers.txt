@@ -1,0 +1,41 @@
+# Security Headers for SEO & Performance
+# Add these to your hosting configuration (Cloudflare, Netlify, Vercel, etc.)
+
+## Recommended Security Headers:
+
+# Strict-Transport-Security (HSTS) - Forces HTTPS
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+
+# Content-Security-Policy - Prevents XSS attacks
+Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://events.framer.com https://framerusercontent.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://framerusercontent.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com https://framerusercontent.com; connect-src 'self' https://events.framer.com; frame-ancestors 'none'; base-uri 'self'; form-action 'self';
+
+# X-Frame-Options - Prevents clickjacking
+X-Frame-Options: DENY
+
+# X-Content-Type-Options - Prevents MIME sniffing
+X-Content-Type-Options: nosniff
+
+# Referrer-Policy - Controls referrer info
+Referrer-Policy: strict-origin-when-cross-origin
+
+# Permissions-Policy - Restricts browser features
+Permissions-Policy: camera=(), microphone=(), geolocation=(self), payment=()
+
+## Performance Headers:
+
+# Enable compression (Brotli/Gzip)
+# Configure on your hosting platform
+
+# Cache-Control for static assets
+Cache-Control: public, max-age=31536000, immutable
+
+# For HTML pages:
+Cache-Control: public, max-age=3600, s-maxage=86400
+
+## SEO Headers:
+
+# X-Robots-Tag (backup to meta tag)
+X-Robots-Tag: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+
+# Link header for preconnect
+Link: <https://fonts.gstatic.com>; rel=preconnect, <https://framerusercontent.com>; rel=preconnect
