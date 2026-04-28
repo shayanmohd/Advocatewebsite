@@ -1,0 +1,12 @@
+{
+  "name": "Advocate Mohd Yunus",
+  "short_name": "Adv. Yunus",
+  "description": "Senior counsel — mining law and criminal defence — practising at the Supreme Court of India, the Delhi High Court and the trial courts of Delhi.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c0f17",
+  "theme_color": "#0c0f17",
+  "icons": [
+    { "src": "/assets/img/favicon.svg", "type": "image/svg+xml", "sizes": "any" }
+  ]
+}

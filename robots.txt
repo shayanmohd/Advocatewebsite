@@ -1,11 +1,12 @@
 User-agent: *
 Allow: /
-Allow: /about
-Allow: /contact
-Allow: /blog
-Allow: /specialisations
+Allow: /about/
+Allow: /contact/
+Allow: /blog/
+Allow: /specialisations/
 Allow: /blog/*
 Allow: /specialisations/*
+Allow: /assets/
 
 # Allow major search engines full access
 User-agent: Googlebot

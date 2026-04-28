@@ -7,7 +7,7 @@
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 
 # Content-Security-Policy - Prevents XSS attacks
-Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://events.framer.com https://framerusercontent.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://framerusercontent.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com https://framerusercontent.com; connect-src 'self' https://events.framer.com; frame-ancestors 'none'; base-uri 'self'; form-action 'self';
+Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self' mailto:;
 
 # X-Frame-Options - Prevents clickjacking
 X-Frame-Options: DENY
@@ -38,4 +38,4 @@ Cache-Control: public, max-age=3600, s-maxage=86400
 X-Robots-Tag: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
 
 # Link header for preconnect
-Link: <https://fonts.gstatic.com>; rel=preconnect, <https://framerusercontent.com>; rel=preconnect
+Link: <https://fonts.gstatic.com>; rel=preconnect, <https://fonts.googleapis.com>; rel=preconnect

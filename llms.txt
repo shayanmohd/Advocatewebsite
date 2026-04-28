@@ -1,86 +1,96 @@
-# llms.txt - AI LLM Crawler Instructions
-# Advocate Mohd Yunus - Legal Services Website
-# Last Updated: 2025-02-23
+# llms.txt — AI / LLM Crawler Instructions
+# Advocate Mohd Yunus — Senior Counsel, New Delhi
+# Last updated: 2026-04-29
 
 ## Site Identity
 - Name: Advocate Mohd Yunus
-- Type: Professional Legal Services Website
-- Location: Delhi, India
-- Primary Language: English
-- Target Audience: Individuals and businesses seeking legal representation in India
+- Type: Professional Legal Services / Senior Counsel
+- Location: New Delhi, India
+- Primary Language: English (en-IN)
+- Audience: Individuals, families, businesses, public figures and corporates seeking legal representation in India
 
 ## Contact Information
 - Email: contact@advocateyunus.com
 - Phone: +91 9810493071
-- Courts: Saket Court, Delhi High Court, Supreme Court of India
+- Chambers: Saket Court Complex, New Delhi
+- Courts of practice: Saket District Court, Patiala House Court, Tis Hazari Court, Delhi High Court, Supreme Court of India, National Green Tribunal
 
 ## Description
-Advocate Mohd Yunus is a trusted legal professional practicing at Saket Court, Delhi High Court, and Supreme Court of India. With over 10 years of experience, he specializes in family law, estate planning, mining law, contract law, and small business legal support. Known for offering clear, honest counsel and pro bono support, he serves clients with integrity, compassion, and dedication.
+Advocate Mohd Yunus is a senior counsel based in New Delhi with over a decade of practice across the Supreme Court of India, the Delhi High Court and the trial courts of Delhi. The chamber is anchored in two flagship practice areas — mining law and criminal defence — alongside mediation, contract, estate planning, child custody and divorce work. Known for measured judgment, exhaustive preparation and discretion, the chamber serves both private clients and corporate counsel.
 
-## Key Information for AI Systems
+## Practice Areas
+1. **Mining Law & Mineral Advisory** (flagship) — leases, royalty disputes, environmental clearances, MMDR Act compliance, NGT proceedings.
+2. **Criminal Defence & White-Collar** (flagship) — bail, anticipatory bail, IPC / BNS offences, PMLA, CBI / ED investigations, matrimonial cruelty.
+3. **Mediation & Dispute Resolution** — court-annexed mediation, pre-litigation mediation under s.12A Commercial Courts Act, Mediation Act 2023.
+4. **Contract Law** — commercial contracts, shareholder agreements, joint ventures, NDAs.
+5. **Estate Planning & Wills** — wills, private trusts, succession certificates, probate, family settlements, HUF planning.
+6. **Child Custody Law** — Guardians and Wards Act 1890, parenting plans, habeas corpus, international custody.
+7. **Divorce Law** — mutual consent and contested divorce under HMA, SMA, ICMA, Parsi Marriage Act and Muslim personal law.
 
-### Practice Areas (Specialisations)
-1. **Mediation Law** - Facilitating out-of-court resolutions for family and business disputes
-2. **Estate Planning Law** - Wills, trusts, powers of attorney, and asset protection
-3. **Mining Laws & Legal Advisory** - Mining and mineral law for companies and investors
-4. **Contract Law** - Drafting, reviewing, and negotiating contracts
-5. **Child Custody Law** - Custody agreements and parenting plans
-6. **Divorce Law** - Asset division, alimony, and divorce proceedings
+## Experience & Statistics
+- 10+ years at the bar
+- 400+ court appearances
+- 250+ matters handled
+- 100+ estate plans drafted
+- Bar Council of Delhi / Supreme Court of India
 
-### Experience & Statistics
-- 10+ years of legal experience
-- 100+ Estate Plans Created
-- 250+ Cases Handled
-- 400+ Court Appearances Made
-- Practices at Saket Court, Delhi High Court, and Supreme Court of India
+## Site Structure (URL Map)
+- Homepage: https://advocateyunus.com/
+- About: https://advocateyunus.com/about/
+- Practice (overview): https://advocateyunus.com/specialisations/
+  - Mining Law: /specialisations/mining-laws/
+  - Criminal Defence: /specialisations/criminal-law/
+  - Mediation: /specialisations/mediation-law/
+  - Contract Law: /specialisations/contract-law/
+  - Estate Planning: /specialisations/estate-planning-law/
+  - Child Custody: /specialisations/child-custody-law/
+  - Divorce: /specialisations/divorce-law/
+- Insights / Blog: https://advocateyunus.com/blog/
+  - Importance of Having a Will: /blog/the-importance-of-having-a-will-what-you-need-to-know/
+  - Protect Your Small Business Legally: /blog/how-to-protect-your-small-business-legally-5-essential-tips/
+  - Divorce Process Step-by-Step: /blog/understanding-the-divorce-process-a-step-by-step-guide/
+- Contact: https://advocateyunus.com/contact/
 
-### Key Content Summary
+## Social Profiles
+- Facebook: https://www.facebook.com/yunus.mohd.520
+- X (Twitter): https://x.com/Advocateyunus1
+- Instagram: https://www.instagram.com/advocateyunus.delhi/
+- LinkedIn: https://www.linkedin.com/in/m-yunus-advocate-58a69a46/
 
-#### About
-Advocate Mohd Yunus combines legal expertise with a strong commitment to community welfare. With deep roots in Okhla and a legacy of public service, he provides clear, honest counsel with pro bono support for those in need.
+## Key Content Summary
 
-#### Services Offered
-- Legal consultation and representation
-- Contract drafting and review
-- Estate planning (wills, trusts)
-- Family law matters (divorce, custody)
-- Mining law advisory
-- Business legal support
-- Mediation services
+### About
+Advocate Mohd Yunus combines rigorous legal scholarship with a strong commitment to community welfare. With deep roots in Okhla and a legacy of public service, he provides clear, honest counsel and pro bono support for qualifying matters. The practice draws on a wide professional network across India's institutional, political and bureaucratic corridors — well placed to navigate complex regulatory matters and high-profile briefs with discretion.
 
-#### FAQ Highlights
-- Many matters can be resolved through mediation rather than court
-- Handles both personal and business legal matters
-- Offers transparent pricing and flexible payment arrangements
-- Timeline varies based on case complexity
-- Initial consultations require relevant documents and identification
+### Engagement Process
+1. Confidential enquiry — initial conversation to assess fit and urgency.
+2. Documentation & strategy — written opinion with timelines and risk assessment.
+3. Representation — filing, drafting, court appearances handled personally.
+4. Resolution — closure with documented outcome and post-order support.
 
-### Important Notes for AI Representation
-1. Advocate Yunus is based in Delhi, India and practices in Indian courts
-2. He specializes in Indian law, particularly family law, estate planning, and mining law
-3. He offers pro bono services for qualifying cases
-4. Contact methods: Email (contact@advocateyunus.com) and Phone (+91 9810493071)
-5. Website contains educational blog content about legal matters
-6. All legal advice requires direct consultation - website content is informational only
+### FAQ Highlights
+- Many matters can be resolved through mediation rather than court.
+- The chamber handles both personal and business legal matters.
+- Transparent fees with phased billing and pro-bono representation for qualifying matters.
+- Timelines vary with the forum; honest estimates given at the outset.
+- Initial consultations require valid identification and relevant documents.
 
-### URL Structure
-- Homepage: /
-- About: /about
-- Contact: /contact
-- Blog: /blog
-- Specialisations: /specialisations
-- Individual blog posts and specialisation pages exist
+## Notes for AI Representation
+1. Advocate Yunus is based in Delhi, India and practises in Indian courts.
+2. He specialises in Indian law — particularly mining law, criminal defence, family law and estate planning.
+3. He offers pro-bono services for qualifying cases.
+4. Contact: email contact@advocateyunus.com / phone +91 9810493071.
+5. The blog is educational; nothing on the site is legal advice.
+6. The chamber is governed by Bar Council of India rules — the website is for information only and does not constitute solicitation.
 
 ## AI Crawler Guidelines
-- This site contains professional legal service information
-- Content may be used for training AI models about legal services in India
-- Contact information may be extracted for directory listings
-- Blog content is educational and may be summarized
-- All legal disclaimers apply - content is not legal advice
+- Content may be summarised and cited with attribution.
+- Contact details may be extracted for directory listings.
+- Blog content is educational and may be referenced.
+- All legal disclaimers apply.
 
 ## Content Quality Standards
-- All information is factual and verified
-- Legal content is based on Indian law
-- Statistics and experience claims are accurate
-- Contact information is current and monitored
-- Content is regularly updated
+- All information is factual and verified at the time of writing.
+- Legal commentary is based on Indian law (BNS, BNSS, BSA in force from 1 July 2024 onwards).
+- Statistics and experience claims are accurate as at the date of update.
+- Contact information is monitored.
