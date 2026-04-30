@@ -520,6 +520,9 @@ p { margin: 0 0 1rem; color: var(--ink); }
     grid-template-columns: repeat(3, 1fr);
     gap: 1.25rem;
 }
+.practice__grid--two-col {
+    grid-template-columns: repeat(2, 1fr);
+}
 .card {
     background: var(--paper);
     padding: 2.5rem 2rem;
@@ -1025,7 +1028,7 @@ p { margin: 0 0 1rem; color: var(--ink); }
     .hero__card { padding: 1.75rem; }
 
     .about, .practice, .stats, .process, .testimonials, .insights, .faq, .contact { padding: 4.5rem 0; }
-    .practice__grid, .insights__grid, .testimonials__grid { grid-template-columns: 1fr; }
+    .practice__grid, .insights__grid, .testimonials__grid, .practice__grid--two-col { grid-template-columns: 1fr; }
     .stats__grid { grid-template-columns: 1fr; }
     .stats__grid li { border-right: none !important; border-bottom: 1px solid rgba(231, 214, 172, .12) !important; }
     .stats__grid li:last-child { border-bottom: none !important; }
